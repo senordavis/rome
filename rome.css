@@ -1,0 +1,154 @@
+/* CSS Document */
+
+body {
+    color:#000000;
+	background-color:#FFFFFF;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+}
+a.link {
+	color:#666666;
+	text-decoration:none;
+	font-size:10px;
+	padding-left:1px;
+}
+
+a.link:hover {
+	color:#FFFFFF;
+	font-size:10px;
+	text-decoration:none;
+	background-color:#999999;
+	padding-left:1px;
+	padding-right:1px;
+	text-decoration:none;
+	
+}
+
+a.link2 {
+	color:#0000FF;
+	text-decoration:none;
+	font-size:10px;
+}
+
+a.link2:hover {
+	color:#0000FF;
+	text-decoration:underline;
+	font-size:10px;
+}
+
+a.index {
+	color:#FFFFFF;
+	text-decoration:none;
+	font-size:10px;
+}
+
+a.index:hover {
+	color:#FFFFFF;
+	text-decoration:underline;
+	font-size:10px;
+}
+
+a.top {
+	color:#0000FF;
+	text-decoration:none;
+	font-size:9px;
+}
+
+a.photo {
+	color:#FFFFFF;
+}
+
+a.photo:hover{
+	color:#666666;
+}
+
+a.image {
+	color:#FFFFFF;
+}
+
+.gallery {
+	color:#000000;
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;	
+}
+
+.notes {
+	color:#000000;
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.inactive {
+	color:#999999;
+}
+.title {
+	color:#000000;
+	font-size:18px;
+	font-weight:bolder;
+	text-decoration:none;
+}
+
+.subtitle {
+	color:#999999;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.date {
+	color:#999999;
+	font-size:10px;
+}
+
+.caption {
+	color:#999999;
+	font-size:10px;
+}
+
+.new {
+	color:#0099CC;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.photo {
+	color:#0000FF;
+	font-size:10px;
+}
+
+.description {
+	color:#0000FF;
+	font-size:10px;
+}
+
+.update {
+	color:#666666;
+	font-size:10px;
+	font-weight:lighter;
+}
+
+.box {
+	background-color:#CCCCCC;
+	padding:5px;
+}
+
+.rightbox {
+	padding-right:10px;
+	border-top:1px solid #999999;
+	border-right:1px solid #999999;
+	border-bottom:1px solid #999999;
+}
+
+.leftbox {
+	padding-left:10px;
+	border-top:1px solid #999999;
+	border-left:1px solid #999999;
+	border-bottom:1px solid #999999;
+}
+
+.main {
+	color:#000000;
+	font-size:10px;
+	text-decoration:none;
+}
